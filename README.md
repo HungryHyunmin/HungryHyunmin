@@ -9,10 +9,10 @@
 
  ⚔️SKill ⚔️
  
- HTML,CSS ⭐⭐
- JavaScript⭐
- Java⭐⭐
- Python⭐
+ HTML,CSS ⭐⭐<br/>
+ JavaScript⭐<br/>
+ Java⭐⭐<br/>
+ Python⭐<br/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HungryHyunmin&show_icons=true&theme=codeSTACKr)
