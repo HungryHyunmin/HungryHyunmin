@@ -15,4 +15,4 @@
  Python⭐<br/>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HungryHyunmin&show_icons=true&theme=codeSTACKr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HungryHyunmin&show_icons=true&theme=cobalt)
