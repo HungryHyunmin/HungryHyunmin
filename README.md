@@ -1,6 +1,5 @@
  <div align =center>
-
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=백엔드 개발자 홍현민입니다.&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hyunmin%20&fontSize=60" />
   
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
