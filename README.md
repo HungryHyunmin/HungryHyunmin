@@ -1,5 +1,6 @@
  <div align =center>
- <h1>😉Hi there!😉<br></h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90"
+  <h1>😉Hi there!😉<br></h1>
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
@@ -22,7 +23,4 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
  <br><br><br><hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusals5798@gmail.com&show_icons=true&theme=cobalt)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusals5798@gmail.com&langs_count=8)](https://github.com/깃HungryHyunmin/github-readme-stats)
-</div>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+
