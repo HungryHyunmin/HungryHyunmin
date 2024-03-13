@@ -1,5 +1,5 @@
  <div align =center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=200&section=header&text=내용입력&fontSize=90"
   <h1>😉Hi there!😉<br></h1>
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
