@@ -10,7 +10,7 @@
  HTML,CSS ⭐⭐<br/>
  JavaScript⭐<br/>
  Java⭐⭐<br/>
- Python⭐<br/>
+ Python⭐⭐<br/>
  <br><br><br><hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HungryHyunmin&show_icons=true&theme=cobalt)  
