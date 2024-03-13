@@ -7,10 +7,11 @@
 
 <h1> ⚔️SKill ⚔️</h1>
  
- HTML,CSS ⭐⭐<br/>
- JavaScript⭐<br/>
- Java⭐⭐<br/>
- Python⭐⭐<br/>
+ Backend
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+ <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+ <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+ 
  <br><br><br><hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HungryHyunmin&show_icons=true&theme=cobalt)  
