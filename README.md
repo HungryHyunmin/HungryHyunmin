@@ -1,6 +1,6 @@
  <div align =center>
  <h1>😉Hi there!😉<br></h1>
-  I am studying in Eulji University.<br>
+
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ Instagram-FF4D00?style=flat-square&logo=Instagram&logoColor=white"/></a>
