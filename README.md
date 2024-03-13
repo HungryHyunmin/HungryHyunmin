@@ -10,7 +10,7 @@
 <h2>Backend</h2>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
- <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
+ <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"><br>
  <img src="https://img.shields.io/badge/Mybatis-4B5562?style=for-the-badge&logo=Mybatis&logoColor=white">
  <img src="https://img.shields.io/badge/JPA-4B5562?style=for-the-badge&logo=JPA&logoColor=white">
  
