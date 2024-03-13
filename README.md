@@ -10,17 +10,17 @@
 <h2>Backend</h2>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
  
- <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
- <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"><br>
- <img src="https://img.shields.io/badge/Mybatis-4B5562?style=for-the-badge&logo=Mybatis&logoColor=white">
- <img src="https://img.shields.io/badge/JPA-4B5562?style=for-the-badge&logo=JPA&logoColor=white"><br>
- <img src="https://img.shields.io/badge/Tymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
- <img src="https://img.shields.io/badge/JSP-005F0F?style=for-the-badge&logo=JSP&logoColor=white">
+ <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
+ <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"><br>
+ <img src="https://img.shields.io/badge/Mybatis-4B5562?style=flat&logo=Mybatis&logoColor=white">
+ <img src="https://img.shields.io/badge/JPA-4B5562?style=flat&logo=JPA&logoColor=white"><br>
+ <img src="https://img.shields.io/badge/Tymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white">
+ <img src="https://img.shields.io/badge/JSP-005F0F?style=flat&logo=JSP&logoColor=white">
  <h2>Frontend</h2>
  
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
  <br><br><br><hr>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HungryHyunmin&show_icons=true&theme=cobalt)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HungryHyunmin&langs_count=8)](https://github.com/깃HungryHyunmin/github-readme-stats)
