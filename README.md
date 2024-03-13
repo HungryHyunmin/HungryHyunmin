@@ -1,5 +1,5 @@
  <div align =center>
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=Hyunmin%20&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=HongHyunmin%20&fontSize=60" />
  </div>
 
 <div>
@@ -52,5 +52,10 @@
 	<img src="https://img.shields.io/badge/DBeaver-382923?style=flat&logo=dbeaver&logoColor=white" />
    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   </div>
+
+<div align=center>
+	<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HungryHyunmin&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=HungryHyunmin&show_icons=true">
 
   
